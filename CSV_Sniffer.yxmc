@@ -214,7 +214,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <WorkflowName>c:\users\mikegoodstein\downloads\csvsniffer\csv_sniffer.yxmc</WorkflowName>
+          <WorkflowName>.\downloads\csvsniffer\csv_sniffer.yxmc</WorkflowName>
           <JupyterProduction>true</JupyterProduction>
           <vEnvName>designerbasetools_venv</vEnvName>
           <DefaultVenv>1</DefaultVenv>
