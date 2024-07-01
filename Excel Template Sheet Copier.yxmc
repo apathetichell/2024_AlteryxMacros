@@ -7,7 +7,7 @@
       </GuiSettings>
       <Properties>
         <Configuration>
-          <WorkflowName>c:\users\mikegoodstein\downloads\exceltemplatecopier\excel template sheet copier.yxmc</WorkflowName>
+          <WorkflowName>.\excel template sheet copier.yxmc</WorkflowName>
           <JupyterProduction>true</JupyterProduction>
           <vEnvName>designerbasetools_venv</vEnvName>
           <DefaultVenv>1</DefaultVenv>
